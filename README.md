@@ -33,5 +33,24 @@
 確保已安裝必要的函式庫：
 ```bash
 pip install opencv-python cvzone numpy
+```
 
-## 
+## 成果展示
+* **初始畫面**
+<img width="1602" height="900" alt="初始畫面" src="https://github.com/user-attachments/assets/3f23be1c-41c5-4d53-86a5-a456f56f4155" />
+
+* **抓取動作**
+  
+
+https://github.com/user-attachments/assets/9bff068a-e495-4338-a9b1-947cb53a2fe2
+
+
+* **勝場計算**
+
+
+https://github.com/user-attachments/assets/58819afe-44aa-4197-a8c7-35b6ee41a364
+
+
+
+
+
